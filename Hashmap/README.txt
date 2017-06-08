@@ -1,0 +1,1 @@
+This program will open a file and load it's contents into a table via a hashmap function, from there, the user can perform operations on the data such as removing a game, inserting a new game, display everything by platform, display everything, change the comment of a game, and retrieve a game

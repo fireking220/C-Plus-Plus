@@ -1,0 +1,1 @@
+This program will construct a graph data type that will link to other vertexes through it's own linear linked list, we will have the option to add a vertex, add a link to a vertex, find all the tasks needed to complete a specific goal, display all connected verticies for a specific goal

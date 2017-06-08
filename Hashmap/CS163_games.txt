@@ -1,0 +1,95 @@
+Civilization II:Strategy:Turn-based:PC:5:Classic version of the Civilization series takes 48 hours straight to play complete game:
+Civilization IV Warlords:Strategy:Turn-based:PC:5:Apex of the Civilization series:
+Civilization V:Strategy:Turn-based:PC:3:When Civilization got too fancy and they ruined it:
+Civilization VI:Strategy:Turn-based:PC:2:When Civilization got cartoony and ridiculous:
+Rhyes and Fall of Civilization:Strategy:Turn-based:PC:5:Civ IV mod played on Earth map and controlled by elaborate historical scripts:
+Dawn of Civilization:Strategy:Turn-based:PC:5:Slightly different, more in-depth version of Rhyes and Fall of Civilization:
+Endless Dungeon:Strategy:Rogue-lite:PC:5:Unique and amazing game, that never got a large enough audience to become successful:
+The Binding of Isaac:Horror:Rogue-lite:PC:5:A great game that attracted a very large audience, making roguelikes and rogue-lites popular:
+The Binding of Isaac - Rebirth:Horror:Rogue-lite:PC:5:An impressive sequel to the harbinger of the age of roguelikes:
+Brogue:Fantasy:Roguelike:PC:5:A remake of Rogue, featuring impressive and beautiful ASCII graphics:
+Rogue:Fantasy:Roguelike:PC:5:The game that defined the genre, nothing else needed to be said. Bask in its everlasting glory:
+Darkest Dungeon:Horror:Roguelike:PC:5:A very difficult and punishing game with fantastic artwork and storyline:
+Don’t Starve:Dark Fantasy:Rogue-lite:PC:5:A very popular 2D survival sandbox game. Featuring “Tim Burton”-esque artwork as its graphics:
+Don’t Starve Together:Dark Fantasy:Rogue-lite:PC:5:A multiplayer version of the original Don’t Starve:
+Enter the Gungeon:Bullet Hell:Rogue-lite:PC:4:A difficult shoot’em up game with style:
+Dungeon Crawl - Stone Soup:Fantasy:Roguelike:PC:4:A fun and graphical roguelike, like no other:
+Crypt of the Necrodancer:Rhythm:Rogue-lite:PC:4:Lacking the content size of other rogue-lite games, but adding an interesting twist to gameplay and an extraordinary soundtrack:
+Endless Space:Strategy:Turn-based:PC:5:A popular alternative to Civilizations, that occurs in space! Very much like Master of Orion:
+Endless Legends:Strategy:Turn-based:PC:5:A very popular alternative to Civilizations that occurs in a fictional fantasy universe:
+Master of Orion:Strategy:Turn-based:PC:5:An extremely popular turn-based strategy in space made in 1994:
+Master of Orion 2:Strategy:Turn-based:PC:5:An extremely popular sequel to Master of Orion, made in 1996:
+Total War - Shogun 2:Strategy:Turn-based:PC:5:A game at the pinnacle of the Total War series. Very well done:
+Demon's Souls:Fantasy:RPG:PC:5:The awesome discrete hipster game that people say they played but really haven’t. The predecessor to the Dark Souls franchise:
+Dark Souls:Fantasy:RPG:PC:5:A great game with amazing lore and combat, but very difficult:
+Dark Souls II:Fantasy:RPG:PC:4:A great game with wonderful combat, but difficult:
+Bloodborne:Dark Fantasy:RPG:Playstation 4:5:An amazing game with a spectacular story and combat system, but very difficult, and only on the Playstation:
+Dark Souls III:Fantasy:RPG:PC:5:A new rendition of what it means to be a Dark Souls game. Extremely difficult, very rewarding, and most importantly, outstanding lore:
+Skyrim:Fantasy:RPG:PC:4: Has the largest modding community of any game ever:
+FTL:Sci-Fi:Rogue-lite:PC:5:Take control of your own spaceship then watch everything go wrong as all of your ship’s oxygen rushes out of your hull into the vast space around you:
+Titanfall 2:Sci-Fi:First person shooter:Playstation 4:5:Fast paced shooter with giant robots:
+Titanfall 2:Sci-Fi:First person shooter:PC:5:Fast paced shooter with giant robots:
+Titanfall 2:Sci-Fi:First person shooter:Xbox One:5:Fast paced shooter with giant robots:
+Pokemon Go:Gotta catch them all!:Fantasy:IOS, Andriod:3:Popular in the Summer 2016:
+Doom:Sci-fi horror:First person shooter:PC:4:Fast paced with non-stop action in single player mode:
+Star Wars Battlefront:Sci-fi war game:First person shooter:Xbox One:5:Great job with intense battles and full multi-player support:
+Birth of the Federation:Defeat the Klingons!:Turn-Based Strategy:PC:5:Great for LAN parties:
+Final Fantasy 7:RPG:Sci-Fi:Playstation:5:Great storytelling:
+Final Fantasy 7:RPG:Sci-Fi:PC:5:Great storytelling:
+Final Fantasy 7:RPG:Sci-Fi:iOS:5:Great storytelling:
+Final Fantasy 7:RPG:Sci-Fi:Playstation 4:5:Great storytelling:
+Final Fantasy 7:RPG:Sci-Fi:Android:5:Great storytelling:
+Shovel Knight:Retro:Fantasy:PC:4:Retro metroid feel:
+Shovel Knight:Retro:Fantasy:Nintendo 3DS:4:Retro metroid feel:
+Shovel Knight:Retro:Fantasy:Wii U:4:Retro metroid feel:
+Shovel Knight:Retro:Fantasy:Playstation 3:4:Retro metroid feel:
+Shovel Knight:Retro:Fantasy:Playstation 4:4:Retro metroid feel:
+Shovel Knight:Retro:Fantasy:Playstation Vita:4:Retro metroid feel:
+Shovel Knight:Retro:Fantasy:XBox One:4:Retro metroid feel:
+Shovel Knight:Retro:Fantasy:Amazon Fire:4:Retro metroid feel:
+Destiny:First person shooter: Action: Xbox One:4:Fun first person shooter with a nice range of AI enemies:
+Destiny:First person shooter: Action: Xbox 360:4:Fun first person shooter with a nice range of AI enemies:
+Destiny:First person shooter: Action:Playstation 4:4:Fun first person shooter with a nice range of AI enemies:
+Destiny:First person shooter: Action:Playstation 3:4:Fun first person shooter with a nice range of AI enemies:
+Uru - Ages Beyond Myst:Puzzle:Fantasy Adventure:PC:4:Part of the Myst universe, but stands alone:
+Dragon Age - Origins:RPG:High Fantasy:PC:5:Good story:
+Dragon Age - Origins:RPG:High Fantasy:Playstation 3:5:Good story:
+Dragon Age - Origins:RPG:High Fantasy:Playstation 4:5:Good story:
+Dragon Age - Origins:RPG:High Fantasy:Xbox 360:5:Good story:
+Dragon Age - Origins:RPG:High Fantasy:Xbox One:5:Good story:
+Dragon Age - Origins:RPG:High Fantasy:OS X:5:Good story:
+Deus Ex:First person shooter:Action:Android:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:iOS:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:PC:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:Playstation 2:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:Playstation 3:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:Playstation 4:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:Wii U:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:Xbox:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:Xbox 360:5:Widely regarded as one of the best PC titles of all time:
+Deus Ex:First person shooter:Action:Xbox One:5:Widely regarded as one of the best PC titles of all time:
+Betrayal at Krondor:RPG:Fantasy:DOS:5:Strongly story-driven game with turn-based combat:
+Advance Wars:Turn-based tactics:Real Time Strategy:GBA:5:Great Gameplay:
+Advance Wars 2 - Black Hole Rising:Turn-based tactics:Real Time Strategy:GBA:5:Great Gameplay:
+Advance Wars - Dual Strike:Turn-based tactics:Real Time Strategy:Nintendo DS:5:Great Gameplay:
+Advance Wars - Days of Ruin:Turn-based tactics:Real Time Strategy:Nintendo DS:5:Great Gameplay:
+Overwatch:FPS:Action:PC:4:Most recent FPS from Blizzard:
+League of Legends:MOBA:Action:PC and OS X:4:Most popular game:
+The Division:Third-Person Shooter:Action:PC:4:Cover-based, post-apocalyptic, tactical shooter:
+The Division:Third-Person Shooter:Action:XBox One:4:Cover-based, post-apocalyptic, tactical shooter:
+The Division:Third-Person Shooter:Action:Playstation 4:4:Cover-based, post-apocalyptic, tactical shooter:
+Bioshock:First Person Shooter:Action:PC:5:Story-driven game about dystopian underwater city:
+Bloons Tower Defence:Tower Defence:Action:PC:5:Dude, you strategically place monkies to pop evil balloons with darts…:
+Guild Wars 2:MMORPG:Action/Strategy:PC:5:Explore the world of Tyria, fight monsters, and defeat the evil dragon Zhaitan!:
+Super Metroid:Action-adventure:Metroidvania:Super Nintendo:5:The classic epitome of metroidvania genre. Great fun to speedrun!:
+Super Metroid:Action-adventure:Metroidvania:Wii:5:The classic epitome of metroidvania genre. Great fun to speedrun!:
+Super Metroid:Action-adventure:Metroidvania:New Nintendo 3DS:5:The classic epitome of metroidvania genre. Great fun to speedrun!:
+Castlevania - Aria of Sorrow:Action-adventure:Metroidvania:GBA:5:Great metroidvania and one of the best Castlevanias. Fun to speedrun!:
+Dragon’s Dogma - Dark Arisen:RPG:Action:Playstation 3:5:Open-world with innovative and fluid combat.:
+Dragon’s Dogma - Dark Arisen:RPG:Action:Playstation 4:5:Open-world with innovative and fluid combat.:
+Dragon’s Dogma - Dark Arisen:RPG:Action:XBox 360:5:Open-world with innovative and fluid combat.:
+Dragon’s Dogma - Dark Arisen:RPG:Action:PC:5:Open-world with innovative and fluid combat.:
+S.T.A.L.K.E.R.- Shadow of Chernobyl:FPS:Horror:PC:5:Open-world survival-horror shooter.:
+Spider-Man 2:Action-adventure:Third Person:PS2:5:Fast paced adventure through the events of the film starring Alfred Molina, great soundtrack, exciting pizza delivery mini-game:
+Earthworm Jim:Action-adventure:Side scroller:SNES:5:You can use your head as a whip. Jim missed leg day though. Humor is A+ but it's the gross kind!!:
+Papers, Please:Bureaucracy Simulator:Puzzle:PC:5:Reminds me of home:

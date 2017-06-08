@@ -1,0 +1,1 @@
+This program will open a file and load it's contents into a binary search tree, from there, the user can perform operations on the tree such as removing a game, remove based on a keyword, return games with a rating of 5, insert a new game, display everything alphabetically, display everything in a range by two different characters, and retrieve a game
