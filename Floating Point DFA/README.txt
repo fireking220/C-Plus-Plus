@@ -1,0 +1,1 @@
+This program will build a 2D array that will model a DFA. This DFA will check to see if all the strings in the text file "Points.txt" are valid floating point numbers of not. It will print out the states that the string follows and print out if it wa accpeted by our DFA or not
